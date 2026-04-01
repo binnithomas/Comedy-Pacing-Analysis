@@ -1,0 +1,46 @@
+Movie_Title ,Released_Year,Humour_Type,Scene_Type,Duration_Sec,Total_Cuts,Word_Count,Tension_Score,Notes
+Annie Hall,1977,Intellectual Satire,Hook,105,1,304,1,A simple verbal introduction of the main character. 
+Annie Hall,1977,Intellectual Satire,Conflict,80,2,227,6,"Tension is arisen within a funny ambience, where the society is not being involved. "
+Annie Hall,1977,Intellectual Satire,Climax,208,33,414,9,"Verbally presented with lot of cuts and dialogues, but with intense word usages. "
+Airplane!,1980,Surreal Parody,Hook,188,29,280,3,"Characters are introduced with less tension, in a more funny way. "
+Airplane!,1980,Surreal Parody,Conflict,821,115,1511,6,"Long sequence - Tension is high, but balanced with literal humour, involving more cuts and dialogues. "
+Airplane!,1980,Surreal Parody,Climax,274,75,352,9,"Breath-taking sequence, involving more of the visual cuts than the dialogues. "
+Ghostbusters,1984,Dry Comedy,Hook,210,32,221,5,"A scene with horror modulation, where the main characters stay casual for most of the time, until the peak moment arises.  "
+Ghostbusters,1984,Dry Comedy,Conflict,369,120,481,7,"Chaos of trapping a ghost is shown with energy - More cuts, yet in a funny manner. "
+Ghostbusters,1984,Dry Comedy,Climax,315,82,319,10,"A sequence with high graphics and more cuts, where the life of the characters are at risk. "
+Groundhog Day,1993,Situational Irony,Hook,360,42,543,4,A couple of sequences depicting the confusion of the main character. 
+Groundhog Day,1993,Situational Irony,Conflict,285,66,335,7,"Verbally rich scene, where the main character shows his potential of predicting things while living a life in the loop. "
+Groundhog Day,1993,Situational Irony,Climax,284,47,311,9,"Emotionally high sequence, where the society is happy about the main character for his good deeds. "
+Office Space,1999,Observational Satire,Hook,191,43,47,5,"A sequence of introducing the characters in a slow, yet visually rich manner, with more cuts and fewer dialogues. "
+Office Space,1999,Observational Satire,Conflict,165,39,277,6,"A turning point sequence that make to feel that something is going wrong, presented through words and cuts. "
+Office Space,1999,Observational Satire,Climax,138,29,78,9,"A visually rich sequence showing the fire-breakout of the office, but saving the main character ultimately. "
+Shaun of the Dead,2004,Stylized Comedy,Hook,44,1,49,1,"A normal sequence of the main character walking to a shop, with no cuts. "
+Shaun of the Dead,2004,Stylized Comedy,Conflict,138,71,108,8,"A sequence where music has been given prominence, and the edits are seen to be at the peak. Both cuts and music aligns perfectly here. "
+Shaun of the Dead,2004,Stylized Comedy,Climax,368,115,429,10,An emotionally-rich survival sequence with instable cuts and risky chaos being shown. 
+Mean Girls,2004,Social Satire,Hook,223,84,356,4,A sequence featuing the main character on a social ambience. Less visually and more verbally presented. 
+Mean Girls,2004,Social Satire,Conflict,165,38,227,8,A socially rich sequence featuring the chaotic situation arising in the school. Verbal usage is high here as well. 
+Mean Girls,2004,Social Satire,Climax,278,81,389,9,"An happy ending sequence, involving almost every characters, more verbally presented. "
+Superbad,2007,Cringe Comedy,Hook,254,64,501,7,"The sequence is verbally rich, but the awkardness can be strongly felt. "
+Superbad,2007,Cringe Comedy,Conflict,190,66,449,5,"The sequence is more of absurd speech, with no much tension being created. "
+Superbad,2007,Cringe Comedy,Climax,832,175,1378,8,"A pretty long sequence, with high word usages and high vulgar visuals. "
+Hot Fuzz,2007,Visual Parody,Hook,148,95,272,5,"A sequence with aggressive editing, featuring the introduction of the main character. "
+Hot Fuzz,2007,Visual Parody,Conflict,150,87,141,7,"Normal editing, along with a semi-chaotic situation, is the matter of this sequence. "
+Hot Fuzz,2007,Visual Parody,Climax,1055,728,756,10,"An extremely chaotic sequence, visually and technically. "
+The Hangover,2009,Chaos Comedy,Hook,306,61,426,6,A mystery-oriented sequence where the main characters are totally confused. 
+The Hangover,2009,Chaos Comedy,Conflict,265,51,372,8,"A sequence that creates tension, where the main characters deal with a tiger. "
+The Hangover,2009,Chaos Comedy,Climax,349,97,743,8,A confusion-oriented sequence with moderate cuts and maximum dialogues. 
+Bridesmaids,2011,Cringe Comedy,Hook,272,69,478,7,"A normal introduction sequence of the main characters, more verbally presented, under the light of social conflict. "
+Bridesmaids,2011,Cringe Comedy,Conflict,422,121,889,10,"A tension-filled sequence, where the group had to face the consequences caused due to the food poisoning issue. "
+Bridesmaids,2011,Cringe Comedy,Climax,368,85,651,8,An emotionally hooking sequence potraying an happy ending. 
+Birdman,2014,Dark Comedy,Hook,117,1,86,4,An absurd setup within a quiet ambience and sufficient dialogues. 
+Birdman,2014,Dark Comedy,Conflict,207,1,313,8,Main character vs Society - Physical slapstick reflected humour and tension at once. 
+Birdman,2014,Dark Comedy,Climax,280,1,198,10,An highly risky sequence depicting a game with the life of the main character.  
+The Grand Budapest Hotel,2014,Visual Comedy,Hook,346,57,611,5,A verbally-rich will reading sequence where the clash of expectations serve as the center of the situation. 
+The Grand Budapest Hotel,2014,Visual Comedy,Conflict,259,39,93,8,"A prison-breaking sequence, pretty risk, more of edits than the words. "
+The Grand Budapest Hotel,2014,Visual Comedy,Climax,136,47,77,10,An adventorous sequence where the antagonist and the protagonists are face-to-face. 
+What we Do in the Shadows,2014,Mockumentary,Hook,488,86,856,3,A normal documentary style introduction sequence presented within an ambience of the horror. 
+What we Do in the Shadows,2014,Mockumentary,Conflict,307,57,452,8,An horrifying sequence featuring absurdity and life-threathening ambience based on an important character called Nick. 
+What we Do in the Shadows,2014,Mockumentary,Climax,534,167,1181,10,A life-at-risk sequence where a normal human (Stu) is amongst the fierce vampires in an Unholy Masquerade event.  
+Palm Springs,2020,Sci-Fi Comedy,Hook,217,74,309,2,"A normal, verbally rich emotional sequence. "
+Palm Springs,2020,Sci-Fi Comedy,Conflict,210,68,174,9,"An horrifying sequence with accelerated visual edits, featuring a dangerous scenario faced by the main characters. "
+Palm Springs,2020,Sci-Fi Comedy,Climax,316,79,494,9,A verbally richer sequence of the main characters playing with the life at risk. 
