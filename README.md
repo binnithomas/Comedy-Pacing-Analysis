@@ -19,5 +19,5 @@ This project, titled -*The Comedy Cadence: The Math behind the Movie Magic*, int
 3. A "vibe calculator" was created to predict exactly how an audience will feel based on the number of words and camera cuts used, helping filmmakers perfectly tune the energy of a scene during the editing process.
 4. To keep a modern audience happy, a movie’s ending needs to be at least 29% faster and more energetic than its beginning to ensure people stay hooked until the very last frame.
 
-# Model Performance
+### Model Performance
 Developed a Random Forest Regressor to predict Tension Scores with a Mean Absolute Error ($MAE$) of 2.09. 
