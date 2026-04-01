@@ -12,10 +12,6 @@ This project, titled -*The Comedy Cadence: The Math behind the Movie Magic*, int
 **Prediction using Machine Learning** – Google Collab Notebook / Python - (Scikit-Learn, Random Forest Regressor)
 **Data Visualization** – Tableau Public (Link: https://public.tableau.com/app/profile/binni.thomas/viz/Comedy_Cadence_Project_BT/Dashboard?publish=yes) 
 
-# Dashboard 
-<img width="1532" height="91" alt="image" src="https://github.com/user-attachments/assets/f3fda796-aeac-4319-ac58-bd959419a268" />
-(Link: https://public.tableau.com/app/profile/binni.thomas/viz/Comedy_Cadence_Project_BT/Dashboard?publish=yes) 
-
 # Key Insights 
 1. Comedies are moving away from long conversations and toward fast-paced action. A trend suggests that by 2026, movies will need roughly 18 camera cuts every minute just to keep our modern, shorter attention spans engaged.
 2. To make a scene feel more intense, adding more camera cuts is far more effective than adding more talking, where every extra cut raises the tension by about 4.5%, while more dialogue actually makes the scene feel less exciting.
