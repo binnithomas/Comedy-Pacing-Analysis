@@ -5,11 +5,11 @@ This project is an integration of the most popular form of entertainment - Cinem
 This project, titled -*The Comedy Cadence: The Math behind the Movie Magic*, integrates cinematic technical aspects with data science to analyze the pacing mechanisms of Hollywood comedy movies over a 50-year period (1977–2024). By quantifying Cuts Per Minute ($CPM$) and Words Per Second ($WPS$), I engineered a framework to predict audience tension and establish technical benchmarks for filmmakers.
 
 # Tools and Techniques
-**Data Collection** – Smartphone (Self recording)
-**Data Storage & Cleaning** – Microsoft Excel 
-**Exploratory Data Analysis (EDA)** – Google Collab Notebook / Python - (NumPy, Pandas, Matplotlib, Seaborn) 
-**Statistical Testing & Modelling** – R programming - (ANOVA, Ordinal Logistic Regression)
-**Prediction using Machine Learning** – Google Collab Notebook / Python - (Scikit-Learn, Random Forest Regressor)
+**Data Collection** – Smartphone (Self recording)\
+**Data Storage & Cleaning** – Microsoft Excel\ 
+**Exploratory Data Analysis (EDA)** – Google Collab Notebook / Python - (NumPy, Pandas, Matplotlib, Seaborn)\
+**Statistical Testing & Modelling** – R programming - (ANOVA, Ordinal Logistic Regression)\
+**Prediction using Machine Learning** – Google Collab Notebook / Python - (Scikit-Learn, Random Forest Regressor)\
 **Data Visualization** – Tableau Public (Link: https://public.tableau.com/app/profile/binni.thomas/viz/Comedy_Cadence_Project_BT/Dashboard?publish=yes) 
 
 # Key Insights 
