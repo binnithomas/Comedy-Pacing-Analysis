@@ -10,7 +10,7 @@ This project, titled -*The Comedy Cadence: The Math behind the Movie Magic*, int
 **Exploratory Data Analysis (EDA)** – Google Collab Notebook / Python - (NumPy, Pandas, Matplotlib, Seaborn)\
 **Statistical Testing & Modelling** – R programming - (ANOVA, Ordinal Logistic Regression)\
 **Prediction using Machine Learning** – Google Collab Notebook / Python - (Scikit-Learn, Random Forest Regressor)\
-**Data Visualization** – Tableau Public\ 
+**Data Visualization** – Tableau Public\
 (Link: https://public.tableau.com/app/profile/binni.thomas/viz/Comedy_Cadence_Project_BT/Dashboard?publish=yes) 
 
 ### Key Insights 
