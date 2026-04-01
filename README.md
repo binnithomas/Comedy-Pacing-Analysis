@@ -10,7 +10,8 @@ This project, titled -*The Comedy Cadence: The Math behind the Movie Magic*, int
 **Exploratory Data Analysis (EDA)** – Google Collab Notebook / Python - (NumPy, Pandas, Matplotlib, Seaborn)\
 **Statistical Testing & Modelling** – R programming - (ANOVA, Ordinal Logistic Regression)\
 **Prediction using Machine Learning** – Google Collab Notebook / Python - (Scikit-Learn, Random Forest Regressor)\
-**Data Visualization** – Tableau Public (Link: https://public.tableau.com/app/profile/binni.thomas/viz/Comedy_Cadence_Project_BT/Dashboard?publish=yes) 
+**Data Visualization** – Tableau Public\ 
+(Link: https://public.tableau.com/app/profile/binni.thomas/viz/Comedy_Cadence_Project_BT/Dashboard?publish=yes) 
 
 ### Key Insights 
 1. Comedies are moving away from long conversations and toward fast-paced action. A trend suggests that by 2026, movies will need roughly 18 camera cuts every minute just to keep our modern, shorter attention spans engaged.
