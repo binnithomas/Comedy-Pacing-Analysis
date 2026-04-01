@@ -6,7 +6,7 @@ This project, titled -*The Comedy Cadence: The Math behind the Movie Magic*, int
 
 ### Tools and Techniques
 **Data Collection** – Smartphone (Self recording)\
-**Data Storage & Cleaning** – Microsoft Excel\ 
+**Data Storage & Cleaning** – Microsoft Excel\
 **Exploratory Data Analysis (EDA)** – Google Collab Notebook / Python - (NumPy, Pandas, Matplotlib, Seaborn)\
 **Statistical Testing & Modelling** – R programming - (ANOVA, Ordinal Logistic Regression)\
 **Prediction using Machine Learning** – Google Collab Notebook / Python - (Scikit-Learn, Random Forest Regressor)\
