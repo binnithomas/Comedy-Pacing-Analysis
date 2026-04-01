@@ -2,7 +2,7 @@
 This project is an integration of the most popular form of entertainment - Cinema, for which the technical aspects demand solutions through the application of Data Science. Using 15 Hollywood comedy movies, this project aims at understanding the pacing mechanism of humor through editing and dialogues, to determine the audiences' final reaction.  
 
 ### Project Overview
-This project, titled -*The Comedy Cadence: The Math behind the Movie Magic*, integrates cinematic technical aspects with data science to analyze the pacing mechanisms of Hollywood comedy movies over a 50-year period (1977–2024). By quantifying Cuts Per Minute ($CPM$) and Words Per Second ($WPS$), I engineered a framework to predict audience tension and establish technical benchmarks for filmmakers.
+This project, titled -*The Comedy Cadence: The Math behind the Movie Magic*, integrates cinematic technical aspects with data science to analyze the pacing mechanisms of Hollywood comedy movies over a 50-year period (1977–2024). By quantifying Cuts Per Minute ($CPM$) and Words Per Second ($WPS$), a framework to predict audience tension was engineered, and the technical benchmarks for filmmakers were established.
 
 ### Tools and Techniques
 **Data Collection** – Smartphone (Self recording)\
